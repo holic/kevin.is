@@ -75,6 +75,19 @@ html {
   color: #fff;
 }
 
+/* Sidebar image */
+.sidebar-image img {
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 50%;
+  width: 7rem;
+}
+@media (max-height: 38em) {
+  .sidebar-image {
+    display: none;
+  }
+}
+
 /* About section */
 .sidebar-about h1 {
   color: #fff;
@@ -97,6 +110,11 @@ a.sidebar-nav-item:focus {
 .sidebar-nav-item.active {
   font-weight: bold;
 }
+@media (max-width: 48em) {
+  .sidebar-nav-item {
+    font-size: 1.5rem;
+  }
+}
 
 /* Sticky sidebar
  *
@@ -108,7 +126,7 @@ a.sidebar-nav-item:focus {
   .sidebar-sticky {
     position: absolute;
     right:  1rem;
-    bottom: 1rem;
+    top:    4rem;
     left:   1rem;
   }
 }

@@ -1,30 +1,15 @@
 ---
 layout: page
 title: About
+permalink: who.html
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+I've always kept a fairly low profile on the web, but I often advocate that your internet presence can be one of your most valuable assets personally and professionally. It's as simple as sharing your thoughts and experiences with the rest of the world. Here's me finally taking my own advice.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## Background
 
-There are currently two themes built on Poole:
+I was born and raised in California, but now call New Zealand my home. I work for <a href="http://blog.iwantmyname.com/2014/05/culture-at-iwmn-part-one.html">a very untraditional company</a> doing what I love &mdash; web development.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+I spent a lot of my childhood and teenage years immersed in the internet, learning as much as I could about building websites, creating wealth, and growing as a person.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Being an introvert and an observer, I've internalized much of this advice and knowledge. As an exercise in extraversion, and for personal record keeping and memory management, I've created this personal space to document what I've learned along the way.
